@@ -11,14 +11,15 @@
 ![GIT](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-%234A154B?logo=Slack&logoColor=white)
 
-<div style="text-align:center"><img src="./images/Background_github.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
+<div style="text-align:center"><img src="./images/Background_header.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
 
 ### ¡Hola mundo!
 
 Cuántas veces habré dicho esto... Y hoy cobra un nuevo sentido. Hace más de 3 décadas, lo dijo con un llanto, o eso me han contado. Cuando me licencié como psicóloga, lo grité a los cuatro vientos, birrete en mano. Ahora se le digo a la comunidad tecnológica y a toda persona que quiera ojear mi trabajo, entre llaves y corchetes.
 
-<!--
-**CrisBIB/CrisBIB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="text-align:center"><img src="./images/Background_footer.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
+
+<!-- **CrisBIB/CrisBIB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -30,4 +31,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+ -->
