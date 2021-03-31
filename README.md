@@ -6,11 +6,11 @@ Cuántas veces habré dicho esto... Hace más de 3 décadas, lo dije con un llan
 
 Soy junior en el mundo de la programación, a la vista está. Sin embargo, mi recorrido como profesional de la mente humana y como creadora de proyectos educativos en organizaciones sociales, me precede. Formación y experiencia de las que me siento orgullosa, como poco. Algunos testigos hay...
 
-<div style="display:flex; justify-content:space-evenly">
-<a _blank href="https://youtu.be/LaGT7VlIF4o" style="text-align:center"><img src="./images/Video_SonGotlab.png" alt="youtube image" width=170px></a><a href="https://youtu.be/VIRC-KtpRVU" style="text-align:center" target="_blank"><img src="./images/Video_EdCamp.png" alt="youtube image" width=170px></a>
+<div display=flex justify-content=space-evenly>
+<a target="_blank" href="https://youtu.be/LaGT7VlIF4o" style="text-align:center"><img src="./images/Video_SonGotlab.png" alt="youtube image" width=170px></a><a href="https://youtu.be/VIRC-KtpRVU" style="text-align:center" target="_blank"><img src="./images/Video_EdCamp.png" alt="youtube image" width=170px></a>
 </div>
 
-Hoy enfrento un nuevo reto en mi vida, el de sumergirme en el sector tecnológico, reinventada y motivada; lógico para quienes me conocen y aventurado para los que no tanto. Sea como fuere, mi energía, autodetermiación y compromiso con aquello que me ha traído hasta aquí sé que me llevarán allí a donde quiero llegar.
+Hoy enfrento un nuevo reto en mi vida, el de sumergirme en el sector tecnológico, reinventada y motivada; lógico para quienes me conocen y aventurado para los que no tanto. Sea como fuere, mi energía, autodetermiación y compromiso con aquello que me ha traído hasta aquí, sé que me llevarán allí a donde quiero llegar.
 
 Hasta entonces, seguiré nutriendo mi saber y cultivando mi código. Porque quien siembra... 🐾🌱
 
