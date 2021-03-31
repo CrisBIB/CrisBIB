@@ -1,13 +1,13 @@
 <div style="text-align:center"><img src="./images/Background_header.png" alt="background header" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
 
-### ¡Hola mundo!
+## ¡Hola mundo!
 
 Cuántas veces habré dicho esto... Pero hoy cobra un nuevo sentido. Hace más de 3 décadas, lo dije con un llanto, o eso me han contado 👶 Cuando me licencié como psicóloga, lo grité a los cuatro vientos, birrete en mano 👩‍🎓 Ahora lo digo de nuevo, entre llaves, funciones y componentes -con ojos, oídos y mente bien despiertos- para recoger toda sugerencia o propuesta de quienquiera que se asome a mi código, y me quiera ofrecer alguna 👩‍💻
 
 Soy junior en el mundo de la programación, a la vista está. Sin embargo, mi recorrido como profesional de la mente humana y como creadora de proyectos educativos en organizaciones sociales, me precede. Formación y experiencia de las que me siento orgullosa, como poco. Algunos testigos hay...
 
 <div style="display:flex; justify-content:space-evenly">
-<span style="text-align:center"><a href="https://youtu.be/LaGT7VlIF4o"><img src="./images/Video_SonGotlab.png" alt="youtube image" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:100px"></a></span><span style="text-align:center"><a href="https://youtu.be/VIRC-KtpRVU"><img src="./images/Video_EdCamp.png" alt="youtube image" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:100px"></a></span>
+<a href="https://youtu.be/LaGT7VlIF4o" target="_blank" style="text-align:center"><img src="./images/Video_SonGotlab.png" alt="youtube image" style="margin-left:auto; margin-right:auto; display: block; width:100px"></a><a href="https://youtu.be/VIRC-KtpRVU" style="text-align:center" target="_blank"><img src="./images/Video_EdCamp.png" alt="youtube image" style="margin-left:auto; margin-right:auto; display: block; width:100px"></a>
 </div>
 
 Hoy enfrento un nuevo reto en mi vida, el de sumergirme en el sector tecnológico, reinventada y motivada; lógico para quienes me conocen y aventurado para los que no tanto. Sea como fuere, mi energía, autodetermiación y compromiso con aquello que me ha traído hasta aquí sé que me llevarán allí a donde quiero llegar.
@@ -29,6 +29,6 @@ STACK TECNOLÓGICO
 ![GIT](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-%234A154B?logo=Slack&logoColor=white)
 
-Hasta aquí, el portfolio de una desarrolladora front-end criada en Madrid, con raíces castellano-manchegas, que disfruta viviendo en Palma de Mallorca.
+©CrisBIB una desarrolladora front-end criada en Madrid, con raíces castellano-manchegas, que disfruta viviendo en Palma de Mallorca.
 
 <div style="text-align:center"><img src="./images/Background_footer_cut.png" alt="background footer" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
