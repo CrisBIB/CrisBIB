@@ -4,7 +4,7 @@
 
 Cuántas veces habré dicho esto... Hace más de 3 décadas, lo dije con un llanto, o eso me han contado. Cuando me licencié como psicóloga, lo grité a los cuatro vientos, birrete en mano. Ahora lo digo de nuevo, entre llaves, funciones y componentes -con ojos, oídos y mente bien despiertos- para recoger toda sugerencia o propuesta de quienquiera que se asome a mi código, y me quiera ofrecer alguna.
 
-En algún momento decidí que quería dedicar parte de mi vida al bienestar de las personas, y lo convertí en mi profesión. Estudié psicología y he trabajado en el sector social casi desde mis inicios en el mundo laboral. Durante más de 7 años, he diseñado, formulado e implementado proyectos sociales, educativos y de cooperación; he gestionado subvenciones públicas y privadas, ejecutado y justificado fondos, y he viajado lo suficiente para conectarme con organizaciones y personas muy diversas. Gracias a todo ello, he crecido en saberes, experiencias y miras, haciendo que mis fronteras mentales hoy sean más amplias que nunca.
+En algún momento decidí que quería dedicar parte de mi vida al bienestar de las personas, y lo convertí en mi profesión. Estudié psicología y he trabajado en el sector social casi desde mis inicios en el mundo laboral. Durante más de 7 años, he diseñado, formulado e implementado proyectos [educativos](https://www.youtube.com/watch?v=LaGT7VlIF4o) y de [cooperación](https://ayudaenaccion.org/ong/educativo/activismodigitalsuchitoto/). He gestionado, ejecutado y justificado fondos de financieras públicas y privadas, nacionales e internacionales. Y he viajado lo suficiente para conectarme con organizaciones y personas muy diversas. Gracias a todo ello, he crecido en saberes, experiencias y miras, haciendo que mis fronteras mentales hoy sean más amplias que nunca.
 
 Hoy enfrento un nuevo reto, el de sumergirme en el sector tecnológico, reinventada y motivada; lógico para quienes me conocen y aventurado para los que no tanto. Sea como fuere, mi energía, autodetermiación y compromiso con aquello que me ha traído hasta aquí, sé que me llevarán allí a donde quiero llegar.
 
@@ -25,8 +25,10 @@ STACK TECNOLÓGICO
 ![GIT](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-%234A154B?logo=Slack&logoColor=white)
 
-©CrisBIB una desarrolladora front-end criada en Madrid, con raíces castellano-manchegas, que disfruta viviendo en Palma de Mallorca.
-
-
+©CrisBIB una desarrolladora front-end criada en Madrid, con raíces castellano-manchegas, que disfruta viviendo en Palma de Mallorca. Si quieres contactar conmigo...
+<p align="left">
+<a href="mailto:cristinabiglesias@gmail.com"><img alt="Cristina Blanco gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/cristina-blanco-iglesias/" target="blank">  <img img alt="Cristina Blanco Iglesias LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=flat&logo=linkedin&logoColor=white" /> </a>
+<a href="https://twitter.com/CristinaBlanci" target="blank"><img alt="CrisBIB Twitter" src="https://img.shields.io/badge/@CristinaBlanci-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
 
 <div style="text-align:center"><img src="./images/Background_footer_cut.png" alt="background footer" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
