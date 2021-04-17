@@ -25,7 +25,7 @@ STACK TECNOLÓGICO
 ![GIT](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-%234A154B?logo=Slack&logoColor=white)
 
-©CrisBIB una desarrolladora front-end criada en Madrid, con raíces castellano-manchegas, que disfruta viviendo en Palma de Mallorca. Si quieres contactar conmigo...
+©CrisBIB desarrolladora front-end criada en Madrid, con raíces castellano-manchegas, que disfruta de la vida en Palma de Mallorca. Si quieres saber más de mi...
 <p align="left">
 <a href="mailto:cristinabiglesias@gmail.com"><img alt="Cristina Blanco gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=flat&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/cristina-blanco-iglesias/" target="blank">  <img img alt="Cristina Blanco Iglesias LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=flat&logo=linkedin&logoColor=white" /> </a>
